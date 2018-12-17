@@ -1,5 +1,6 @@
-# MSDS696
-Final project for Regis MSDS696 - Denver Bike Map and Text Analysis
+# MSDS696 Practium II
+Final project writeup for Regis MSDS696 - Denver Bike Map and Text Analysis
+
 Meng Luo
 
 ## 1. Project discription
