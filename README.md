@@ -22,19 +22,19 @@ Data analytics main applies to the 2nd part of the project. I was able to collec
  
 ## 2. Main achievements and problems 
 ### a. Main achievements
-- Used new techniques not covered in the course: GeoJSON, folium, geopandas, masked word cloud
+- Used new techniques not covered in the course: GeoJSON, folium, geopandas, masked word cloud.
 - Practiced on obtain new data sets and how to clean/transform a new data set.
-- Successfully created a html file for the interactive map with layers to show event popups with details
+- Successfully created a html file for the interactive map with layers to show event popups with details.
 - Successfully analyzed the tweets collects for Denver and other cities.
 ### b. Main problems
 - The original GeoJSON file is too large to load in real time. I had to shrink it.
 - Cleaning datasets consumed the majority of the project time. 
 - Right before submitting the project, the Twitter API is locked and I couldn't show the text anlytics results to compare different cities.
 
-### c. What I learnt from this project
-- Available data <> usable data. Never make plans based on when we obtain the data. It needs to be cleaned, transformed, loaded first. 
+### c. What have I learnt from this project
+- Available data is far from usable data. Never make plans based on when we obtain the data. It needs to be cleaned, transformed, loaded first. 
 - Data collecting and preparation did take 80% of a data scientist's time.
-- Text analytics is quite fun with very interesting results. (I saw people are talking more about giving bike as a gift rather than icy hazards on the road and the tweets are getting much more positive in the holiday season) However, I need to make the results more visually attractive.
+- Text analytics is quite fun with very interesting results. (I see people are talking more about giving bike as a gift rather than icy hazards on the road and the tweets are getting much more positive in the holiday season) However, I need to make the results more visually attractive.
 
 ## 3. Conclusions
 
@@ -46,6 +46,9 @@ It seems not that hard to load GeoJSON files with the folium package in Python a
 ## References
 
 Bicycle Colorado Event Calendar.(2018, Decemeber).*Bicycle Colorado*.Retrieved from https://www.bicyclecolorado.org/events/
+
 Bicycle Facility Inventory Dataet.(2018).*Denver Regional Council of Governments*.Retrieved from https://data.drcog.org/dataset/bicycle-facility-inventory
+
 Bike Denver Events page.(2018, December).*Bike Denver*.Retrieved from https://bikedenver.org/events/
+
 Course materials from MSDS680,682,and 696.(2018).*Regis University*.
