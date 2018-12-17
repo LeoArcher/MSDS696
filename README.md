@@ -38,7 +38,7 @@ Data analytics main applies to the 2nd part of the project. I was able to collec
 
 ## 3. Conclusions
 
-The proejct shows Denver's bike lanes and events as an html page [https://github.com/Milite/Milite.github.io/blob/master/index.html]. We also conduct text anlytics against twitter on Denver bikes and cycling. 
+The proejct shows Denver's bike lanes and events as an html page [https://milite.github.io/MSDS/index.html]. We also conduct text anlytics against twitter on Denver bikes and cycling. 
 
 It seems not that hard to load GeoJSON files with the folium package in Python and present them as .html files. Text analytics is useful when it comes to tweets to gather people's opinions. However, the most important thing I learnt from this project is that, it is no joke data collecting and preparation is the hardest part of being data scientist. Now I am more skillfull and ready to tackle these issues.
 
